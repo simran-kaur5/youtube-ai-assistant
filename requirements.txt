@@ -1,10 +1,11 @@
+torch
+torchvision
+sentence-transformers
+transformers
 streamlit
+chromadb
 agno
 groq
-chromadb
-sentence-transformers
-scikit-learn
 youtube-transcript-api
 python-dotenv
-transformers
-torch
+scikit-learn
