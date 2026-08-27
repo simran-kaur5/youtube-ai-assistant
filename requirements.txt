@@ -1,0 +1,10 @@
+streamlit
+agno
+groq
+chromadb
+sentence-transformers
+scikit-learn
+youtube-transcript-api
+python-dotenv
+transformers
+torch
