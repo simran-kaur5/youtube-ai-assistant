@@ -1,8 +1,11 @@
-# YouTube AI Assistant
+# VidQuer
+VidQuer is an Agentic AI-powered YouTube video analyzer that converts YouTube videos into concise explanations and allows users to ask questions about the video content.
 
-YouTube AI Assistant is a Streamlit-based application that lets you analyze a YouTube video, generate a concise explanation, and ask questions about the video.
+The project uses an Agno AI Agent with Groq LLMs to process transcript content, extract important information, and answer questions based on the processed video. ChromaDB is used for storing and retrieving relevant video content for question answering.
 
-I built this project to experiment with combining **LLMs, RAG, embeddings, and YouTube transcripts** into one application.
+## 🚀 Live Demo
+
+👉 [Try VidQuer](https://vidquery-ai.streamlit.app/)
 
 ## What it does
 

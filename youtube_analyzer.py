@@ -197,16 +197,6 @@ def get_rag():
 
 rag = get_rag()
 
-# results = rag.search(
-#     "What are the three fundamental concepts I should learn before machine learning?",
-#     n_result=3
-# )
-
-# print(results)
-
-# if __name__ =="__main__":
-
-#     print(process_video("https://www.youtube.com/watch?v=D1eL1EnxXXQ&t=915s",rag))
 
 
 
